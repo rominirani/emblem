@@ -28,7 +28,7 @@ setup(
     name=NAME,
     version=VERSION,
     description="Emblem API",
-    author="OpenAPI Generator community",
+    author="OpenAPI Generator",
     author_email="team@openapitools.org",
     url="",
     keywords=["OpenAPI", "OpenAPI-Generator", "Emblem API"],
